@@ -26,6 +26,9 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/hs3/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/micromax/hs3/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
     vendor/micromax/hs3/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
+    vendor/micromax/hs3/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
+    vendor/micromax/hs3/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
+    vendor/micromax/hs3/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
     vendor/micromax/hs3/proprietary/lib64/libgoodixfingerprintd_binder.so:system/lib64/libgoodixfingerprintd_binder.so \
     vendor/micromax/hs3/proprietary/vendor/lib/libactuator_ak7345.so:system/vendor/lib/libactuator_ak7345.so \
     vendor/micromax/hs3/proprietary/vendor/lib/libactuator_s5k3l8_sunny_v12bn_dw9800.so:system/vendor/lib/libactuator_s5k3l8_sunny_v12bn_dw9800.so \
