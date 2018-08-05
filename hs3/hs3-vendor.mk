@@ -24,8 +24,10 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/hs3/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/micromax/hs3/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/micromax/hs3/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
+    vendor/micromax/hs3/proprietary/lib/hw/sensors.msm8937.so:system/lib/hw/sensors.msm8937.so \
     vendor/micromax/hs3/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
     vendor/micromax/hs3/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
+    vendor/micromax/hs3/proprietary/lib64/hw/sensors.msm8937.so:system/lib64/hw/sensors.msm8937.so \
     vendor/micromax/hs3/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
     vendor/micromax/hs3/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
     vendor/micromax/hs3/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
