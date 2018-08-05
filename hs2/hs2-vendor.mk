@@ -25,10 +25,12 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/hs2/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/micromax/hs2/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/micromax/hs2/proprietary/lib/hw/fingerprint.silead.default.so:system/lib/hw/fingerprint.silead.default.so \
+    vendor/micromax/hs2/proprietary/lib/hw/sensors.msm8937.so:system/lib/hw/sensors.msm8937.so \
     vendor/micromax/hs2/proprietary/lib/libfpfslockd_remoteapi.a:system/lib/libfpfslockd_remoteapi.a \
     vendor/micromax/hs2/proprietary/lib/libfpsvcd_remoteapi.a:system/lib/libfpsvcd_remoteapi.a \
     vendor/micromax/hs2/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
     vendor/micromax/hs2/proprietary/lib64/hw/fingerprint.silead.default.so:system/lib64/hw/fingerprint.silead.default.so \
+    vendor/micromax/hs2/proprietary/lib64/hw/sensors.msm8937.so:system/lib64/hw/sensors.msm8937.so \
     vendor/micromax/hs2/proprietary/lib64/libfpfslockd_remoteapi.a:system/lib64/libfpfslockd_remoteapi.a \
     vendor/micromax/hs2/proprietary/lib64/libfpsvcd_remoteapi.a:system/lib64/libfpsvcd_remoteapi.a \
     vendor/micromax/hs2/proprietary/vendor/lib/libactuator_ak7345.so:system/vendor/lib/libactuator_ak7345.so \
